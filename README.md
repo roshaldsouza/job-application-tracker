@@ -1,26 +1,28 @@
-# Job Application Tracker 🚀
+# JobTrack Pro 📋➡️💼  
+*Your ultimate job application management system*
 
-![App Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU1dGQ5d2RwZ3Z6d2RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZw/giphy.gif)  
-*(Replace with your actual demo GIF showing the app in action)*
+![JobTrack Pro Demo](https://github.com/yourusername/jobtrack-pro/blob/main/demo.gif?raw=true)  
+*(Example GIF - replace with your actual screencast)*
 
-## Features ✨  
-✅ **Interactive Dashboard**  
-![Dashboard](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU1dGQ5d2RwZ3Z6d2RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZw/giphy.gif)  
-- Real-time stats visualization  
+## 🎥 **See It in Action**
+▶️ **Dashboard Walkthrough**  
+![Dashboard Interaction](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU1dGQ5d2RwZ3Z6d2RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZw/giphy.gif)  
+*(Tracking applications with analytics)*
 
-✅ **Seamless Application Tracking**  
-![Add Job](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU1dGQ5d2RwZ3Z6d2RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZw/giphy.gif)  
-- One-click job entry system  
+▶️ **Quick Application Logging**  
+![Add Job Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU1dGQ5d2RwZ3Z6d2RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZw/giphy.gif)  
+*(3-second job entry flow)*
 
-✅ **Responsive Design**  
-![Mobile View](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU1dGQ5d2RwZ3Z6d2RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZw/giphy.gif)  
-- Works flawlessly on all devices  
+## How To Create Your Perfect Demo GIF
+1. **Record** using [ScreenToGif](https://www.screentogif.com/) (Windows) or [LICEcap](https://www.cockos.com/licecap/) (Mac)
+2. **Edit** with [EZGIF](https://ezgif.com/) to:
+   - Trim to 5-8 seconds
+   - Optimize to <1MB
+   - Add subtle zoom effects
+3. **Embed** directly from GitHub repo or GIPHY
 
-## How to Record Your Own GIFs  
-1. Use [ScreenToGif](https://www.screentogif.com/) (Windows) or [GIPHY Capture](https://giphy.com/apps/giphycapture) (Mac)  
-2. Keep recordings short (3-5 seconds)  
-3. Upload to [GIPHY](https://giphy.com/create/gifmaker) and embed  
-
-## Tech Stack ⚙️  
-![React](https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif) ![TypeScript](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)  
-![MUI](https://media.giphy.com/media/Vg0JstydL8HCYvJBF7/giphy.gif) ![Vite](https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif)
+## Pro Tip 💡
+For maximum impact:
+- Show the **complete user journey** (login → add job → view dashboard)
+- Highlight **key interactions** with mouse circle effects
+- Add **text annotations** ("Watch how easy it is to track applications!")
