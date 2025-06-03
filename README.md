@@ -1,28 +1,28 @@
-# JobTrack Pro 📋➡️💼  
-*Your ultimate job application management system*
+# 🚀 JobTrack Pro - Your Career Command Center 💼
 
-![JobTrack Pro Demo](https://github.com/yourusername/jobtrack-pro/blob/main/demo.gif?raw=true)  
-*(Example GIF - replace with your actual screencast)*
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGwxczh4ZTh0MXR5dTM4NWM3NXpyMHUxcGRpNnhudndxM2kxeHBraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UzPjxxHJC8uZUzW6U6/giphy.gif" width="200">
+  
+  [![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)](https://react.dev/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5-orange?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+  [![MUI](https://img.shields.io/badge/MUI-5-lightblue?style=for-the-badge&logo=mui)](https://mui.com/)
+</div>
 
-## 🎥 **See It in Action**
-▶️ **Dashboard Walkthrough**  
-![Dashboard Interaction](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU1dGQ5d2RwZ3Z6d2RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZw/giphy.gif)  
-*(Tracking applications with analytics)*
+## ✨ **Features That Get You Hired**
+| Feature | Emoji | Description |
+|---------|-------|-------------|
+| **Job Dashboard** | 📊 | Visualize applications & interview rates |
+| **One-Click Logging** | ✨ | Add jobs in 10 seconds flat |
+| **Status Tracking** | 🔄 | Applied → Interview → Offer pipeline |
+| **Secure Auth** | 🔐 | Protected account system |
+| **Mobile-Ready** | 📱 | Track jobs on the go |
 
-▶️ **Quick Application Logging**  
-![Add Job Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU1dGQ5d2RwZ3Z6d2RqZ3RqZ3RqZ3RqZ3RqZ3RqZ3RqZw/giphy.gif)  
-*(3-second job entry flow)*
+## 🎯 **Quick Start Guide**
 
-## How To Create Your Perfect Demo GIF
-1. **Record** using [ScreenToGif](https://www.screentogif.com/) (Windows) or [LICEcap](https://www.cockos.com/licecap/) (Mac)
-2. **Edit** with [EZGIF](https://ezgif.com/) to:
-   - Trim to 5-8 seconds
-   - Optimize to <1MB
-   - Add subtle zoom effects
-3. **Embed** directly from GitHub repo or GIPHY
+### 1. **Clone & Enter** 🏠
 
-## Pro Tip 💡
-For maximum impact:
-- Show the **complete user journey** (login → add job → view dashboard)
-- Highlight **key interactions** with mouse circle effects
-- Add **text annotations** ("Watch how easy it is to track applications!")
+💖 Made with React Passion
+📜 MIT License
+🐞 PRs Welcome
+📫 Reach out: roshalds789@gmail.com
+
