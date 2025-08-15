@@ -13,7 +13,7 @@
 |---------|-------|-------------|
 | **Job Dashboard** | 📊 | Visualize applications & interview rates |
 | **One-Click Logging** | ✨ | Add jobs in 10 seconds flat |
-| **Status Tracking** | 🔄 | Applied → Interview → Offer pipeline |
+
 | **Secure Auth** | 🔐 | Protected account system |
 | **Mobile-Ready** | 📱 | Track jobs on the go |
 
